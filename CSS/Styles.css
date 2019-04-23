@@ -1,0 +1,38 @@
+
+img{
+  color: rgb(65,75,86);
+}
+h1,h2{
+      text-alighn: center;
+}
+    font-size: 5em;
+  }
+
+img {
+  display:
+  margin
+  padding:10px;
+
+}
+div {
+  width:50px;
+  height:10px:
+  background-colour;pink;
+  margin;10;
+  padding;10px;
+  border; 2px solid blue;
+}
+
+p {
+  width: 40%;
+  margine: 10vh 10vw;
+  font-size: 2em;
+}
+
+a {
+  color: rgba(0, 0, 0.5);
+}
+
+ol {
+  list-style: none;
+}
